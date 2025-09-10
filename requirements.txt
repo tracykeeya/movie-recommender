@@ -27,7 +27,9 @@ pytz==2025.2
 referencing==0.36.2
 requests==2.32.5
 rpds-py==0.27.1
-scikit-surprise==1.1.4
+#scikit-surprise==1.1.4
+git+https://github.com/NicolasHug/Surprise.git
+
 scipy==1.11.4
 setuptools==80.9.0
 six==1.17.0
